@@ -1,1 +1,7 @@
 esse crud e somente um exemplo!
+
+enviar arquivos para o servidor use:
+git push origin master
+
+para pegar os dados atualizados use:
+git pull origin master
